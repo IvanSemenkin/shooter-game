@@ -93,7 +93,7 @@ for i in range(1, 3):
     monsters.add(monster)
 
 font.init()
-font = font.SysFont('Arial', 30)
+font = font.SysFont('Arial', 35)
 
 rocet = Player('rocket.png', 680, 600, 100, 100, 15)
 
